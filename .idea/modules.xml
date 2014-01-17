@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MapWindowRecorder/MapWindowRecorder.iml" filepath="$PROJECT_DIR$/MapWindowRecorder/MapWindowRecorder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MapWindowRecorderProject.iml" filepath="$PROJECT_DIR$/MapWindowRecorderProject.iml" />
+    </modules>
+  </component>
+</project>
+

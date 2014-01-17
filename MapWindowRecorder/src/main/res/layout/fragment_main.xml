@@ -1,0 +1,28 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity$PlaceholderFragment">
+
+    <fragment xmlns:android="http://schemas.android.com/apk/res/android"
+              android:id="@+id/map"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              class="com.google.android.gms.maps.MapFragment"/>
+
+    <TextView
+        android:id="@+id/window_label"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:paddingTop="25dip"
+        android:paddingRight="35dip"
+        android:textColor="@color/red"
+        android:textStyle="bold"
+        android:textColorHighlight="@color/white"
+        android:textSize="30sp"
+        android:visibility="gone"
+/>
+
+</RelativeLayout>
