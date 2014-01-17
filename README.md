@@ -14,4 +14,4 @@ To save the current map windows to your device for loading between instances, se
 
 About
 =====
-This approach was used in the SAC: Semantic Adaptive Caching for Spatial Mobile Applications described http://www.umiacs.umd.edu/~bfruin/papers/sigspatial13-sac-paper.pdf. 
+A similar approach was used in data generation for the experiments in SAC: Semantic Adaptive Caching for Spatial Mobile Applications. http://www.umiacs.umd.edu/~bfruin/papers/sigspatial13-sac-paper.pdf. 
